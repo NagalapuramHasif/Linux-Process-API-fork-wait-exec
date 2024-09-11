@@ -25,8 +25,8 @@ Test the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : KARTHIKEYAN R
-### REG NO : 212222240046
+### DEVELOPED BY :NAGALAPURAM HASIF
+### REG NO : 212223100036
 
 ## C Program to print process ID and parent Process ID using Linux API system calls :
 ```
@@ -52,7 +52,8 @@ int main(void)
 
 ## OUTPUT :
 
-![image](https://github.com/JoyceBeulah/Linux-Process-API-fork-wait-exec/assets/118343698/c185b57b-3f9d-46bb-8c35-d1d38d480959)
+
+![image](https://github.com/user-attachments/assets/d3e039fd-cfeb-4792-97ba-24902de69b05)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit() :
@@ -84,7 +85,8 @@ int main() {
 
 ## OUTPUT :
 
-![image](https://github.com/JoyceBeulah/Linux-Process-API-fork-wait-exec/assets/118343698/f3fde68b-c98d-4172-a7db-0773758b3ad4)
+![image](https://github.com/user-attachments/assets/766147e8-7e98-49ac-8097-09ebb66b4a73)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family :
@@ -121,7 +123,7 @@ int main() {
 
 ## OUTPUT :
 
-![image](https://github.com/JoyceBeulah/Linux-Process-API-fork-wait-exec/assets/118343698/42dda2d9-9f8a-47d2-b9c5-13dd09b97dd3)
+![image](https://github.com/user-attachments/assets/36eaca6a-6a6f-4b91-88c2-0cd28ec16696)
 
 
 # RESULT :
